@@ -1,0 +1,3 @@
+myApp:
+  to-json: "customer-to-json"
+  to-xml: "customer-to-xml"
